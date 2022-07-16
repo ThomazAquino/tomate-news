@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Inico | Ig.news</title>
+      <title>Inico | Tomate.news</title>
     </Head>
     <h1>tomate</h1>
     </>
