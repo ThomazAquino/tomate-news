@@ -1,8 +1,11 @@
 ## Tomate news blog
 
+
+# Serverless:
+This app uses faunaDB (similar to DynamoDB - aws)
+
+# Simple styles
 This app uses css modules. 
-
-
 ## Getting Started
 
 First, run the development server:
