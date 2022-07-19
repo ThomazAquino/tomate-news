@@ -6,6 +6,9 @@ This app uses faunaDB (similar to DynamoDB - aws)
 
 # Simple styles
 This app uses css modules. 
+
+# Run stripe CLI
+stripe listen --forward-to localhost:3000/api/webhooks
 ## Getting Started
 
 First, run the development server:
