@@ -1,5 +1,7 @@
 ## Tomate news blog
 
+Jam-stack
+Prismic-cms
 
 # Serverless:
 This app uses faunaDB (similar to DynamoDB - aws)
