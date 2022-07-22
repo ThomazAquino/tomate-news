@@ -51,14 +51,7 @@ export const getStaticProps: GetStaticProps = async () => {
   });
 
 
-
-
-
-  
-
   const posts = response.results.map(post => {
-    console.log('🚀 🚀 🚀  ~ constgetStaticProps:GetStaticProps= ~ post.data  - ', post.data)
-    console.log('\n\nn\n\n')
 
     return {
       slug: post.uid,
@@ -78,3 +71,4 @@ export const getStaticProps: GetStaticProps = async () => {
     }
   }
 }
+
